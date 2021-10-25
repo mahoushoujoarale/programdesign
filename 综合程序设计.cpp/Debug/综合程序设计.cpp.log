@@ -1,0 +1,197 @@
+﻿  main.cpp
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,12): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,22): error C2065: “L”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,23): error C2182: “InitS”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,19): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,29): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,33): error C2182: “PrintMGraph1”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,18): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,34): error C2065: “VertexType”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,46): error C2065: “vexdata”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,55): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,62): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.h(5,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.h(5,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(52,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(53,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(54,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(55,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(56,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(57,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(58,5): error C3861: “Init”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(59,5): error C2064: 项不会计算为接受 1 个参数的函数
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(62,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(72,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(91,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(116,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(136,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(179,24): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\综合程序设计.cpp\综合程序设计.cpp\main.cpp(191,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  map.cpp
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,12): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,22): error C2065: “L”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,23): error C2182: “InitS”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,19): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,29): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,33): error C2182: “PrintMGraph1”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,18): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,34): error C2065: “VertexType”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,46): error C2065: “vexdata”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,55): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,62): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(3,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(3,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(3,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(4,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(4,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(23,12): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(23,22): error C2065: “L”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(23,23): error C2182: “InitS”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(23,6): error C2374: “InitS”: 重定义；多次初始化
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14): message : 参见“InitS”的声明
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(24,1): error C2448: “InitS”: 函数样式初始值设定项类似函数定义
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(42,21): error C2065: “Maxline”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(44,36): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(44,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(44,16): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(44,16): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(45,25): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(46,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(46,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(46,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(46,20): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(47,37): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(47,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(47,16): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(47,16): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(54,19): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(54,29): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(54,33): error C2182: “PrintMGraph1”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(54,6): error C2374: “PrintMGraph1”: 重定义；多次初始化
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16): message : 参见“PrintMGraph1”的声明
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(55,1): error C2448: “PrintMGraph1”: 函数样式初始值设定项类似函数定义
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(65,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(65,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(66,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(66,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,18): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,34): error C2065: “VertexType”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,46): error C2065: “vexdata”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,55): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,62): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(76,5): error C2374: “CreateMGraph”: 重定义；多次初始化
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18): message : 参见“CreateMGraph”的声明
+D:\综合程序设计.cpp\综合程序设计.cpp\map.cpp(77,1): error C2448: “CreateMGraph”: 函数样式初始值设定项类似函数定义
+  search.cpp
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(12,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,11): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,21): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(13,27): error C2059: 语法错误:“const”
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,12): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,22): error C2065: “L”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(14,23): error C2182: “InitS”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,19): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,29): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(16,33): error C2182: “PrintMGraph1”: 非法使用“void”类型
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(17,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,18): error C2065: “LineNode”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,34): error C2065: “VertexType”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,46): error C2065: “vexdata”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,55): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\map.h(18,62): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.h(5,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.h(5,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(5,15): error C2065: “Graph”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(5,21): error C2146: 语法错误: 缺少“)”(在标识符“G”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(6,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(6,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(54,21): error C2065: “Maxline”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(55,25): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(56,28): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(56,16): error C2660: “strcmp”: 函数不接受 1 个参数
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(100,13): message : 参见“strcmp”的声明
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(58,21): error C2065: “Maxline”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(62,29): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(63,32): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(63,20): error C2660: “strcmp”: 函数不接受 1 个参数
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(100,13): message : 参见“strcmp”的声明
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(72,19): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(72,43): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(73,57): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(73,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(73,16): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(73,16): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(80,18): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(80,24): error C2065: “vexdata”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(80,33): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(81,14): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(81,18): error C2065: “p”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(81,22): error C2065: “time_path”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(81,5): error C3861: “Dijkstra”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(87,19): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(87,9): error C3861: “LocateVex”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(98,72): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(98,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(98,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(98,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(102,113): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(102,127): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(102,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(102,20): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(102,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(109,19): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(109,9): error C3861: “LocateVex”: 找不到标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(120,66): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(120,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(120,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(120,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(124,116): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(124,130): error C2065: “Line”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(124,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(124,20): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(124,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(129,12): error C2065: “p”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(131,24): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(131,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(131,16): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(131,16): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(133,13): error C2065: “p”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(134,13): error C2065: “p”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(138,20): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(138,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(138,12): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(138,12): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(141,22): error C2065: “G”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(141,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(141,16): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(141,16): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(144,23): error C2065: “time_path”: 未声明的标识符
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(144,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(144,12): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(144,12): message : 缺失的可变参数 1 为格式字符串“%lf”所需
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(86,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\综合程序设计.cpp\综合程序设计.cpp\search.cpp(108,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
